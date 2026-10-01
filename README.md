@@ -1,3 +1,27 @@
+# README documentation template
+
+[Português (Brasil)](README.pt-BR.md)
+
+## Idea and process
+
+A fork of Code Institute's README teaching template. Source reviewed on 2026-10-01. The Love Running narrative below is an example of how to document a project, not evidence that this repository contains that running-club application or that its tests were performed by the owner.
+
+## Structure and use
+
+README.md contains guidance and example sections for features, testing, deployment and credits; media/ holds supporting images. No application source is present in the reviewed root. Preserve the example, replace every claim with evidence from the real target project and distinguish completed tests from planned checks. Avoid inventing user stories, deployment success, process history or license rights to fill headings.
+
+## Design, tests and snapshots
+
+The document structure is the deliverable. Existing images illustrate the upstream lesson, not new dated snapshots. No runtime/test suite was executed in this update. When adapting the template, verify image provenance and links, actual desktop/mobile renders and dates. New project snapshots should be saved under docs/assets/ only after capture, with no private data.
+
+## Credits and licensing
+
+Original third-party template/code/assets and credits are preserved below. No new license is applied. Code Institute material is not claimed as original work by Iuri.
+
+---
+
+## Original README
+
 # Love Running
 
 In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
