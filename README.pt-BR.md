@@ -6,7 +6,7 @@
 
 Este repositório é um modelo de documentação, não um aplicativo. Não há aplicativo para executar.
 
-Ao adaptar o modelo: coloque no topo um badge clicável e uma seção Demo com a URL de produção verificada, se houver deploy. Não exija terminal para acessar uma demo hospedada. Se não houver deploy, explique como instalar, iniciar e abrir o projeto localmente. Não invente uma URL nem apresente previews antigos como produção. Declare limitações atuais da demo.
+Ao adaptar o modelo: coloque no topo uma seção Demo com um único badge clicável. Não repita o link da demo em outros trechos. Use-o com a URL de produção verificada, se houver deploy. Não exija terminal para acessar uma demo hospedada. Se não houver deploy, explique como instalar, iniciar e abrir o projeto localmente. Não invente uma URL nem apresente previews antigos como produção. Declare limitações atuais da demo.
 
 ## Ideia e processo
 
