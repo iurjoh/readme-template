@@ -2,6 +2,12 @@
 
 [Português (Brasil)](README.pt-BR.md)
 
+## Demo and local use
+
+This repository is a documentation template, not an application. There is no application to run.
+
+When adapting the template: put a clickable badge and a Demo section at the top with the verified production URL when a deployment exists. Do not require terminal setup to access a hosted demo. If there is no deployment, explain how to install, start and open the project locally. Do not invent a URL or present retired previews as production. State current demo limitations.
+
 ## Idea and process
 
 A fork of Code Institute's README teaching template. Source reviewed on 2026-10-01. The Love Running narrative below is an example of how to document a project, not evidence that this repository contains that running-club application or that its tests were performed by the owner.
