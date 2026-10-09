@@ -6,7 +6,7 @@
 
 This repository is a documentation template, not an application. There is no application to run.
 
-When adapting the template: put a clickable badge and a Demo section at the top with the verified production URL when a deployment exists. Do not require terminal setup to access a hosted demo. If there is no deployment, explain how to install, start and open the project locally. Do not invent a URL or present retired previews as production. State current demo limitations.
+When adapting the template: put a Demo section at the top with one clickable badge. Do not repeat the demo link elsewhere. Use it with the verified production URL when a deployment exists. Do not require terminal setup to access a hosted demo. If there is no deployment, explain how to install, start and open the project locally. Do not invent a URL or present retired previews as production. State current demo limitations.
 
 ## Idea and process
 
@@ -108,7 +108,6 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-
 ### Validator Testing 
 
 - HTML
@@ -131,7 +130,6 @@ This section should describe the process you went through to deploy the project 
 
 The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
 
-
 ## Credits 
 
 In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
@@ -148,7 +146,6 @@ You can break the credits section up into Content and Media, depending on what y
 
 - The photos used on the home and sign up page are from This Open Source site
 - The images used for the gallery page were taken from this other open source site
-
 
 Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
 
